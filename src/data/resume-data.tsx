@@ -62,7 +62,7 @@ export const RESUME_DATA = {
       start: "2018",
       end: "Present",
       description: [
-        "Developed and maintained enterprise web applications using cutting-edge web technologies, including React.js, TypeScript, styled-components, Next.js, Redux, and Redux-saga.",
+        "Developed and maintained enterprise web applications using cutting-edge web technologies, including React.js, TypeScript, styled-components, Redux, and Redux-saga.",
         "Utilized Redux for efficient global state management and Redux-saga for handling asynchronous API operations.",
         "Employed Styled-components and CSS-in-JS solutions for effective styling in the applications.",
         "Established custom webpack setups and tools such as Storybook for streamlined development processes.",

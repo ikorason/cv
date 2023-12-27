@@ -35,7 +35,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "University of Bishop",
-      degree: "Bachelor's Degree in Computer Science",
+      degree: "BSc - Computer Science",
       start: "2022",
       end: "Present",
       description:

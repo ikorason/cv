@@ -1,5 +1,3 @@
-![cv](./public/resume-png.png)
-
 # Minimalist CV
 
 Simple web app that renders minimalist CV with print-friendly layout.

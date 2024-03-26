@@ -38,8 +38,10 @@ export const RESUME_DATA = {
       degree: "BSc, Computer Science",
       start: "2022",
       end: "Present",
-      description:
+      description: [
         "Currently balancing part-time university studies with full-time work",
+        "Courses include Data Structures, Algorithms, Software Engineering, and more",
+      ],
     },
     {
       school: "Collège LaSalle Montréal",

@@ -188,6 +188,7 @@ export default function Page() {
                   description={project.description}
                   tags={project.techStack}
                   link={"link" in project ? project.link.href : undefined}
+                  label={"link" in project ? project.link.label : undefined}
                 />
               );
             })}

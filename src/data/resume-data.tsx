@@ -9,7 +9,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Montreal",
   about: "I build products with a keen eye for detail as a software developer.",
   summary:
-    "I'm a software developer who enjoys coding and crafting products. Driven by a passion for continuous learning, I strive to deepen my knowledge across various aspects of software and technology. With 6 years of experience, I've been involved in extensive frontend work for enterprise web applications, while also contributing to backend development.",
+    "I'm a software developer who thrives on problem-solving and building products. I actively contribute to open source projects and have a genuine love for software in all its forms. I'm a continuous learner at heart—I believe I'll keep learning until the day I can't. I bring extensive frontend experience and growing backend capabilities. While I'm actively learning backend development, I've reached a point where I can contribute meaningfully while continuing to expand my knowledge.",
   personalWebsiteUrl: "https://ikorason.dev",
   contact: {
     email: "irfanabliz914@gmail.com",
@@ -95,6 +95,16 @@ export const RESUME_DATA = {
       link: {
         label: "ikorason.dev",
         href: "https://ikorason.dev/",
+      },
+    },
+    {
+      title: "Open Source Contributions",
+      techStack: ["Open Source", "TypeScript", "JavaScript", "Rust"],
+      description:
+        "Active contributor to various open source projects on GitHub.",
+      link: {
+        label: "github.com/ikorason",
+        href: "https://github.com/ikorason",
       },
     },
   ],

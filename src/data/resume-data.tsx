@@ -107,5 +107,15 @@ export const RESUME_DATA = {
         href: "https://github.com/ikorason",
       },
     },
+    {
+      title: "Lazy Swagger TUI",
+      techStack: ["Side Project", "Rust", "TUI", "API Testing"],
+      description:
+        "A terminal UI for testing ASP.NET APIs directly from the command line using Swagger/OpenAPI specifications. Features keyboard-driven navigation, bearer token authentication, and JSON body editing.",
+      link: {
+        label: "github.com/ikorason/lazy-swagger-tui",
+        href: "https://github.com/ikorason/lazy-swagger-tui",
+      },
+    },
   ],
 } as const;

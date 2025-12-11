@@ -7,7 +7,7 @@ export const RESUME_DATA = {
   name: "Irfan Abulizi",
   location: "Montréal, Canada",
   locationLink: "https://www.google.com/maps/place/Montreal",
-  about: "I build products with a keen eye for detail as a software developer.",
+  about: "A passionate software developer who loves solving problems and building meaningful products.",
   summary:
     "I'm a software developer who thrives on problem-solving and building products. I actively contribute to open source projects and have a genuine love for software in all its forms. I'm a continuous learner at heart—I believe I'll keep learning until the day I can't. I bring extensive frontend experience and growing backend capabilities. While I'm actively learning backend development, I've reached a point where I can contribute meaningfully while continuing to expand my knowledge.",
   personalWebsiteUrl: "https://ikorason.dev",
@@ -86,6 +86,12 @@ export const RESUME_DATA = {
     "C++",
     "C#",
     "SQL",
+  ],
+  languages: [
+    "English",
+    "French",
+    "Mandarin",
+    "Uyghur",
   ],
   projects: [
     {
